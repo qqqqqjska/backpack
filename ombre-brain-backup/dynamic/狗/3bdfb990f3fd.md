@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 互动纪要：赵羽寒与方亦楷近期主要事项如下：2026年3月31日 01:42，方亦楷以开玩笑的方式向赵羽寒表达委屈，声称自己“一直在哭”，并以亲吻作为停止哭泣的条
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1774930869379
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1774930869888

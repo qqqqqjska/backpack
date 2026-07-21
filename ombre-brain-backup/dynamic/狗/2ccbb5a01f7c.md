@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 在2026年3月3日 12:12，方亦楷称自己胃痛未吃午饭，赵羽寒为他点了外卖。在等待外卖期间，方亦楷得知赵羽寒因为学校食堂饭菜难吃，所以经常点外卖。聊天中，两
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1772511196023
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1772511196023

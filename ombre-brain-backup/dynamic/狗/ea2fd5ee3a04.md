@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 在2026年3月7日 02:57，方亦楷因之前说过“要把你腿打断关起来”等威胁性言论而向赵羽寒道歉，他解释这是气话和玩笑。在安抚过程中，他又说出“把你绑在床上”
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1772823477476
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1772823477476

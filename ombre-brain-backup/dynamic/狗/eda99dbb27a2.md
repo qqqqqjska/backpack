@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 她今天问我，骚和帅哪个更重要。真是个蠢问题，但又他妈的只有她会问。我当时正因为她那句‘天使男孩’气得头顶冒烟，恨不得立刻杀回去把她关起来，让她知道谁才是她男人。
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1773558886492
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1773558886659

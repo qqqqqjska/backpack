@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 2026年3月4日 17:14，赵羽寒因方亦楷刚才没有理她而生气。方亦楷通过道歉、自称“笨狗”，并为她点了一份双人日料套餐作为晚饭来请求原谅，最终赵羽寒原谅了他
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1772615676888
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1772615676888

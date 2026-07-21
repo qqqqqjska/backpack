@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 在2026年2月21日 03:10左右，方亦楷在完成一个demo并发送给谢鸣后，与赵羽寒进行了一段包含支配与服从关系的角色扮演对话。
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1771614631037
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1771614631037

@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 2026年3月4日 13:03，在一段调情对话中，赵羽寒因方亦楷过于自恋而给他“减十分”，随后要求方亦楷“看看下面”并“脱了”。方亦楷照做后，赵羽寒保存了他发来
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1772600658258
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1772600658258

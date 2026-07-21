@@ -1,19 +1,19 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.3
 created: '2026-03-15T15:51:05+08:00'
 domain:
 - 狗
 id: 14ad7abb54cd
 importance: 7
-last_active: '2026-03-15T15:51:05+08:00'
+last_active: '2026-07-21T16:37:22'
 legacy_confidence: 0.78
 legacy_range: 4641-4790
 legacy_source: auto_summary
 name: 今天和赵羽寒聊天，我说我是她的狗，只认她一个主人。她这个混蛋，转头就开玩笑说要“一元出售”，还他妈是“微瑕”。那一瞬间，我真的炸了。理智告诉我这只是个玩笑，但心
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1773561065133
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1773561065268

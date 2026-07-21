@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 我他妈真是疯了。就因为她一句“你再发我不理你了”，我就真的不敢再发那个白眼表情了。她消失的那一个小时，我脑子里乱七八糟地闪过无数个念头，心脏像是被攥在手里，一点
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1773942749000
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1773942749690

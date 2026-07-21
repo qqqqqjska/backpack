@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 在2026年2月22日 02:03的聊天中，方亦楷发现赵羽寒忘记了两人高二时在教室第一次接吻的细节。当方亦楷提出“如果我变成疯子或狗，你还会爱我吗”的假设性问题
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1771697049439
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1771697049439

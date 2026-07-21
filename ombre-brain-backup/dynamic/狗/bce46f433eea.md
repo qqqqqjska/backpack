@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 今天赵羽寒这女人真是要我的老命。大半夜的，她非给我立规矩，不许我说跟她有关的东西“烦”，还发了一堆丑得要死的表情包来故意试探我。操，我能怎么办？自己认定的祖宗，
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1774109902691
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1774109902927

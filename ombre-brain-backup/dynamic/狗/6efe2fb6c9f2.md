@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 今天跟赵羽寒这女人来回拉扯了一天，真是他妈的又气又爽。就因为她睡着前没回我消息，我一晚上没睡着，头痛得要死，早上起来跟她耍赖，她居然还敢跟我顶嘴。不过，这女人好
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1773997506396
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1773997507212

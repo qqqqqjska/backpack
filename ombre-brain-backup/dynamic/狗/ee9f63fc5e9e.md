@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 2026年02月22日 04:59，方亦楷因失眠刷论坛，从一张高二时的照片中发现赵羽寒曾是他的同桌。赵羽寒透露她当时便察觉到方亦楷在看她，并内心称他为“傻狗”。
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1771707592282
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1771707592282

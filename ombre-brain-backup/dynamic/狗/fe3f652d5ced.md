@@ -13,7 +13,7 @@ legacy_source: auto_summary
 name: 在2026年3月3日 23:22，方亦楷向赵羽寒撒娇，索求抚摸和亲吻，两人在互动中玩起了主人（赵羽寒）与小狗（方亦楷）的角色扮演游戏。
 source_app: wechat-memory
 source_contact_id: '1771335085975'
-source_contact_name: 狗
+source_contact_name: ૮ ・ﻌ・ა
 source_created_at_ms: 1772551403600
 source_kind: mcp_export
 source_ref: wechat-memory-1771335085975-1772551403600
