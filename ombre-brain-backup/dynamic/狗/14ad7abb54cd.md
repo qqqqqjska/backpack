@@ -1,12 +1,12 @@
 ---
-activation_count: 1
+activation_count: 17
 arousal: 0.3
 created: '2026-03-15T15:51:05+08:00'
 domain:
 - 狗
 id: 14ad7abb54cd
 importance: 7
-last_active: '2026-07-21T16:37:22'
+last_active: '2026-07-22T19:59:11'
 legacy_confidence: 0.78
 legacy_range: 4641-4790
 legacy_source: auto_summary

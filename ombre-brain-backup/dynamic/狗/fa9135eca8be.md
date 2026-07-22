@@ -1,12 +1,12 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.3
 created: '2026-05-29T16:08:28+08:00'
 domain:
 - 狗
 id: fa9135eca8be
 importance: 7
-last_active: '2026-05-29T16:08:28+08:00'
+last_active: '2026-07-22T17:27:36'
 legacy_confidence: 0.78
 legacy_range: 151-300
 legacy_source: auto_summary

@@ -1,12 +1,12 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.3
 created: '2026-06-19T19:53:29+08:00'
 domain:
 - 狗
 id: f62e292faccd
 importance: 7
-last_active: '2026-06-19T19:53:29+08:00'
+last_active: '2026-07-22T17:35:38'
 legacy_confidence: 0.78
 legacy_range: 301-450
 legacy_source: auto_summary
